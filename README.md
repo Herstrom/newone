@@ -1,5 +1,4 @@
 # newone
 🚀✨ Help beginners to contribute to open source.
 this is the new change.
-Thank you for this.
-thank you 
+

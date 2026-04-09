@@ -1,2 +1,4 @@
 # newone
-🚀✨ Help beginners to contribute to open source projects
+🚀✨ Help beginners to contribute to open source.
+this is the new change.
+
